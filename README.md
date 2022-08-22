@@ -1,4 +1,4 @@
-# gbiros.github.io
+# Algorithms and Data Structures Narritive
 
 This artifact I chose as it best shows skills that align with algorithms and data structures. I have created a small program that would store data entries in an array list. This assignment was based on a much simpler project that uses basic algorithms and creates an array from the values entered by the user, that would organize appointments that met the conditions of the programs. There are conditions that shouldn’t pass like duplicate entries, and the data being entered should meet the format for the entries; this is outlined in the source code so if the format doesn’t meet the requirements, then it will not enter the data entry into the array and will let the user know why it wasn’t entered into the array. These conditions are created by if statements that will check the entry for all conditions to make sure they have been entered correctly. For those reasons is why I have decided to include this in my ePortfolio. 
 	
