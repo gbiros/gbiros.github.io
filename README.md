@@ -1,4 +1,4 @@
-# gbiros.github.io
+# Software Design and Engineering Narritive
 
 The artifact that I felt best showed my ability to participate in software and design processes is the project from the CS-340 class that is Visual Studios and OpenGL. When I began this project, I remember feeling overwhelmed as I had not had any real experience with any of the tools we used for this project. We were using C++ to write the source code, in the Visual Studios application, and the OpenGL API. In the eight-week course I was really learning three new things and I had to master the three items to complete the final project. The objective of the course was to recreate a scene in the visual studio environment using 3D shapes. We also used shader programs, and texture programs to give the objects the same appearance as they are in the real world as in the environment. This was a demanding project because of all the different dynamics in this project, to complete this in an organized fashion, was a real accomplishment for me, and for this reason displays my ability integrate software design and engineering.
 
